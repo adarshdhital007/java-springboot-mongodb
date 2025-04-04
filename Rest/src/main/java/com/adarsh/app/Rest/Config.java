@@ -1,3 +1,4 @@
+package com.adarsh.app.Rest;
 import io.github.cdimascio.dotenv.Dotenv;
 
 public class Config {
